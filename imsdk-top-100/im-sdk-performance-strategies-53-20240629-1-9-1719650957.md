@@ -1,3 +1,7 @@
+---
+description: 介绍IM SDK的性能优化策略，包括消息传输优化、数据存储优化和监控与调优等内容。
+keywords: IM SDK, 性能优化, PUSH SDK,Chat AI SDK
+---
 # IM SDK的性能优化策略
 
 ## 摘要

@@ -1,3 +1,7 @@
+---
+description: 介绍IM SDK与客服SDK的整合，包括协同工作、提高用户体验和增强数据分析能力等。
+keywords: IM SDK, 客服SDK, 即时通讯SDK,实时音视频
+---
 # IM SDK与客服SDK的整合
 
 ## 摘要

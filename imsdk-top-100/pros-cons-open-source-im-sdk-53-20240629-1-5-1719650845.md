@@ -1,3 +1,7 @@
+---
+description: 开源IM SDK的优缺点分析，包括开源IM SDK的优点、缺点、选择蓝莺IM的理由、成功应用的实例等内容。
+keywords: 开源IM SDK, 优缺点, AI智能体, RTC SDK
+---
 # 开源IM SDK的优缺点分析
 
 ## 摘要

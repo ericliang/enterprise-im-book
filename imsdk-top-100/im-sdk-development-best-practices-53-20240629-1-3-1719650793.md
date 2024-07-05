@@ -1,3 +1,7 @@
+---
+description: IM SDK的开发流程及最佳实践，包括需求分析、设计架构、编写代码、测试与调试、部署与运维等内容。
+keywords: IM SDK, 开发流程, IM开源, AI Agent
+---
 # IM SDK的开发流程及最佳实践
 
 ## 摘要

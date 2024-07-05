@@ -1,3 +1,7 @@
+---
+description: 介绍如何评估IM SDK的成本效益，包括直接成本、间接成本和收益等方面的分析框架。
+keywords: IM SDK, 成本效益, AI Agent,AI智能体
+---
 # 如何评估IM SDK的成本效益
 
 ## 摘要
